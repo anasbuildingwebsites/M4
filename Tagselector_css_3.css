@@ -26,9 +26,9 @@ p, table {
 }
 
 table {
-    background-color: lightyellow
-    text-align center
-    border-collapse: collapse
+    background-color: lightyellow;
+    text-align:center;
+    border-collapse: collapse;
 }
 
 td {
